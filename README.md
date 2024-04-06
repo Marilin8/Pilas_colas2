@@ -1,8 +1,8 @@
-#IMPLEMENTACION DE PILA
-##Descripción del codigo
+# IMPLEMENTACION DE PILA
+## Descripción del codigo
 
 Este código es un programa en Java que simula el manejo de una pila de platos sucios en una cocina. </p>
-##Explicación paso a paso del código:
+## Explicación paso a paso del código:
 
 Se importan dos clases de Java: **Scanner** y **Stack**. 
 **Scanner** se utiliza para leer la entrada del usuario, mientras que **Stack** se utiliza para representar una pila en la que almacenaremos los platos sucios.
@@ -41,11 +41,11 @@ Una vez que el usuario elige salir del programa, se imprime "Hasta luego" y el p
 
 ![Captura de pantalla 2024-04-05 172504](https://github.com/Marilin8/Pilas_colas2/assets/124939061/9665ffae-59ca-46a2-88ea-4241c738babc)
 
-#IMPLEMENTACION DE COLA
-##Descripción del codigo
+# IMPLEMENTACION DE COLA
+## Descripción del codigo
 
 Este código es un programa en Java que simula la atención de clientes en un banco utilizando una cola. 
-##Explicación paso a paso del código:
+## Explicación paso a paso del código:
 
 Se importan tres clases de Java: **LinkedList**, **Queue** y **Scanner**. **LinkedList** se utiliza para implementar una cola,
   **Queue** es una interfaz que representa una cola y **Scanner** se utiliza para leer la entrada del usuario.
