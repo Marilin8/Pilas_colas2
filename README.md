@@ -40,7 +40,7 @@
 <p>Se imprime una línea en blanco para mejorar la legibilidad entre iteraciones del bucle.</p>
 <p>Una vez que el usuario elige salir del programa, se imprime "Hasta luego" y el programa termina.</p>
 
-![]("C:\Users\Marilin\Pictures\Screenshots\Captura de pantalla 2024-04-05 172504.png")
+![Captura de pantalla 2024-04-05 172504](https://github.com/Marilin8/Pilas_colas2/assets/124939061/9665ffae-59ca-46a2-88ea-4241c738babc)
 
 <h1>IMPLEMENTACION DE COLA</h1>
 <h2>Descripción del codigo</h2>
@@ -76,5 +76,5 @@
 <p>Se imprime una línea en blanco para mejorar la legibilidad entre iteraciones del bucle.</p>
 <p>Una vez que el usuario elige salir del programa, se imprime "¡Hasta luego!" y el programa termina.</p>
 
-![]("C:\Users\Marilin\Pictures\Screenshots\Captura de pantalla 2024-04-05 173901.png")
+![Captura de pantalla 2024-04-05 173901](https://github.com/Marilin8/Pilas_colas2/assets/124939061/66fa84ec-8127-4cef-8799-6d834f12b16d)
 
